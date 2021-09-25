@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.containerNoticia {
+  display: flex;
+  padding: 12px 22px;
+  border-bottom: 1px solid #ccc;
+}
+
+.containerNoticia img {
+  width: 25%;
+}
+
+.containerNoticia p {
+  padding: 12px;
+  width: 60%;
+}
+h2 {
+  text-align: center;
+  color: #568ff8;
+}
