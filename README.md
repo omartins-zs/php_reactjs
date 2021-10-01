@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="React Redux" width="800" height="600" title="" src="./public/reactJs-php.jpg" />
+</h1>
+
 # Getting Started with Create React App
 
 ```sh
